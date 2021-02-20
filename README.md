@@ -22,7 +22,7 @@ yarn serve
 yarn build
 ```
 
-### This app is deployed through Netlify at [https://thirsty-shirley-208460.netlify.app/](https://thirsty-shirley-208460.netlify.app/)
+### This app is deployed through Netlify at [https://app-trivia-vue.netlify.app/](https://app-trivia-vue.netlify.app/)
 
 <br>
 
